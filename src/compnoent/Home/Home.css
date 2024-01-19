@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.card {
+    background-color: #2d2d2d;
+}
+.img-card{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    flex-direction: column;
+
+}
+.img-card2{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    flex-direction: column;
+    width: 60px;
+    height: 55px;
+    
+}
+.hover:hover{
+    background: linear-gradient(91.3deg,#16a9b1 -31.8%,#b5d654 140.15%);
+  
+  
+  }

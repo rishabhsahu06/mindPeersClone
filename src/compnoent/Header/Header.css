@@ -1,0 +1,13 @@
+
+li {
+    cursor: pointer;
+}
+li:hover{
+  color: linear-gradient(91.3deg,#16a9b1 -31.8%,#b5d654 140.15%);
+
+}
+.hover:hover{
+  background: linear-gradient(91.3deg,#16a9b1 -31.8%,#b5d654 140.15%);
+
+
+}
